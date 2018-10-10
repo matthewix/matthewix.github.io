@@ -13,5 +13,3 @@ I am a member of the Varsity Lightweight Rowing Team.
 ## Professsional Experience
 
 
-```
-
